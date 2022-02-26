@@ -1,15 +1,13 @@
 # :wave: Hi! I'm Adriana
 
 <!-- [![GitHub Badge](https://img.shields.io/badge/-@amda-phd?style=flat-square&logo=GitHub&logoColor=white&color=blueviolet)](https://github.com/amda-phd) -->
-
-[![Linkedin Badge](https://img.shields.io/badge/-Adriana%20Martin%20de%20Aguilera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amda/)](https://www.linkedin.com/in/amda/)
-
 <!-- [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/14979932/amda?tab=profile) -->
 
+[![Linkedin Badge](https://img.shields.io/badge/-Adriana%20Martin%20de%20Aguilera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amda/)](https://www.linkedin.com/in/amda/)
 [![Gmail Badge](https://img.shields.io/badge/-adrianamdeaguilera@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:adrianamdeaguilera@gmail.com)
+[![amda StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14979932)](https://stackoverflow.com/users/14979932/amda)
 [![Discord Badge](https://img.shields.io/badge/-amda-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/amda#5788/)
 [![Postman Badge](https://img.shields.io/badge/-amdaPhD-f56d24?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/amda)
-[![amda StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14979932)](https://stackoverflow.com/users/14979932/amda)
 
 I'm not the guy from my pic: that's my guinea pig :hamster:. His name is Chapata. We're both from Madrid (Spain). I used to work as a physicist (you can check [my PhD thesis](https://e-archivo.uc3m.es/handle/10016/24978) here if you're into learning some Plasma Physics) but I discovered that building apps and services that other people used was much more fun :tada:. Also, they paid slighly better :money_with_wings:.
 
