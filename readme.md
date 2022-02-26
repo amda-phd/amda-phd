@@ -2,13 +2,13 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-@amda-phd?style=flat-square&logo=GitHub&logoColor=white&color=blueviolet)](https://github.com/amda-phd)
 [![Linkedin Badge](https://img.shields.io/badge/-Adriana%20Martin%20de%20Aguilera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amda/)](https://www.linkedin.com/in/amda/)
-[![amda StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14979932/amda)
 
 <!-- [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/14979932/amda?tab=profile) -->
 
 [![Gmail Badge](https://img.shields.io/badge/-adrianamdeaguilera@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:adrianamdeaguilera@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-amda-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/amda#5788/)
 [![Postman Badge](https://img.shields.io/badge/-amdaPhD-f56d24?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/amda)
+[![amda StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14979932)](https://stackoverflow.com/users/14979932/amda)
 
 I'm not the guy from my pic: that's my guinea pig :hamster:. His name is Chapata. We're both from Madrid (Spain). I used to work as a physicist (you can check [my PhD thesis](https://e-archivo.uc3m.es/handle/10016/24978) here if you're into learning some Plasma Physics) but I discovered that building apps and services that other people used was much more fun :tada:. Also, they paid slighly better :money_with_wings:.
 
@@ -49,18 +49,18 @@ Now I work for **Lingbe**, an amazing app that connects people eager to learn la
 
 ## :muscle: My strengths
 
-- I try to **learn** something new every day.
-- If it's not **tested**, I won't even call it _code_.
-- Occasional **Mass Effect** references.
-- **Validation** nerd.
-- :headphones: I'm always listening to ~~good~~ great music
+- :question: I try to **learn** something new every day.
+- 🧪 If it's not **tested**, I won't even call it _code_.
+- :alien: Occasional **Mass Effect** references.
+- ✅ **Validation** nerd.
+- :headphones: I'm always listening to ~~good~~ great music. And I'm eager to share it.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=the.lost.dreamer&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ## :sweat_smile: My flaws
 
-- I'll always make you test your code.
+- :angry: I'll always make you test your code.
 - `namingStuffIsDifficult`.
-- Frequent **typos** (probably more than one in this same file).
-- I'm not good at dressing like an adult.
-- Sorry, what was your name?
+- :weary: Frequent **typos** (probably more than one in this same file).
+- :tshirt: I'm not good at dressing like an adult.
+- :innocent: Sorry, what was your name?
