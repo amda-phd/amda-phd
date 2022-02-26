@@ -1,6 +1,7 @@
 # :wave: Hi! I'm Adriana
 
-[![GitHub Badge](https://img.shields.io/badge/-@amda-phd?style=flat-square&logo=GitHub&logoColor=white&color=blueviolet)](https://github.com/amda-phd)
+<!-- [![GitHub Badge](https://img.shields.io/badge/-@amda-phd?style=flat-square&logo=GitHub&logoColor=white&color=blueviolet)](https://github.com/amda-phd) -->
+
 [![Linkedin Badge](https://img.shields.io/badge/-Adriana%20Martin%20de%20Aguilera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amda/)](https://www.linkedin.com/in/amda/)
 
 <!-- [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/14979932/amda?tab=profile) -->
@@ -12,7 +13,7 @@
 
 I'm not the guy from my pic: that's my guinea pig :hamster:. His name is Chapata. We're both from Madrid (Spain). I used to work as a physicist (you can check [my PhD thesis](https://e-archivo.uc3m.es/handle/10016/24978) here if you're into learning some Plasma Physics) but I discovered that building apps and services that other people used was much more fun :tada:. Also, they paid slighly better :money_with_wings:.
 
-Now I work for **Lingbe**, an amazing app that connects people eager to learn languages that you should be trying ASAP. It's available for [Android](https://play.google.com/store/apps/details?id=com.lingbe.app&hl=en&gl=US) and [iOS](https://apps.apple.com/us/app/lingbe/id1061633775). Seriously. C'mon, give it a try!
+Now I work for **Lingbe**, an amazing app that connects people eager to learn languages. You should be trying it ASAP. It's available for [Android](https://play.google.com/store/apps/details?id=com.lingbe.app&hl=en&gl=US) and [iOS](https://apps.apple.com/us/app/lingbe/id1061633775). Seriously. C'mon, give it a try!
 
 ## ⚡ Technologies
 
