@@ -1,65 +1,78 @@
 # :wave: Hi! I'm Adriana
 
-<!-- [![GitHub Badge](https://img.shields.io/badge/-@amda-phd?style=flat-square&logo=GitHub&logoColor=white&color=blueviolet)](https://github.com/amda-phd) -->
-<!-- [![StackOverflow Badge](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/14979932/amda?tab=profile) -->
-
 [![Linkedin Badge](https://img.shields.io/badge/-Adriana%20Martin%20de%20Aguilera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amda/)](https://www.linkedin.com/in/amda/)
-[![Gmail Badge](https://img.shields.io/badge/-adrianamdeaguilera@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:adrianamdeaguilera@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-adriana@amda.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:adriana@amda.dev)
 [![amda StackOverflow](https://stackoverflow-badge.vercel.app/?userID=14979932)](https://stackoverflow.com/users/14979932/amda)
 [![Discord Badge](https://img.shields.io/badge/-amda-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/amda#5788/)
 [![Postman Badge](https://img.shields.io/badge/-amdaPhD-f56d24?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/amda)
 
-I'm not the guy from my pic: that's my guinea pig :hamster:. His name is Chapata. We're both from Madrid (Spain). I used to work as a physicist (you can check [my PhD thesis](https://e-archivo.uc3m.es/handle/10016/24978) here if you're into learning some Plasma Physics) but I discovered that building apps and services that other people used was much more fun :tada:. Also, they paid slighly better :money_with_wings:.
+## 🤝 Who am I
 
-Now I write backend and frotnend code for **BeyondPlay**, an amazing project that seeks the creation of a totally new experience for online casino players :slot_machine:. Haven't herad of it? You should [take a look](https://www.beyondplay.io/).
+- 🌈👧🌈 I'm a she/her.
+- 🗺 I'm based in Madrid, Spain.
+- ✍️ I write a lot of code.
+- 😍 I love what I do.
+- 🔥 I can't wait to find a new project to create / enhance / get passionate about.
+- ⏮️ I have an [exciting past](https://e-archivo.uc3m.es/handle/10016/24978).
 
-## ⚡ Technologies
+## ⚔️ My Tech Stacks
 
-### :speech_balloon: Languages
+... or, as you may call them, my arsenal when facing a new project.
 
-| <img alt="JavaScript" title="JavaScript" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img alt="TypeScript" title="TypeScript" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20210506173343"> | <img title="HTML" alt="HTML" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img title="CSS" alt="CSS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> | <img title="Python" alt="Python" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img title="MatLab" alt="MatLab" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png"> | <img title="LaTeX" alt="LaTeX" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png"> | <img title="Maple" alt="Maple" width="55px" src="https://www.maplesoft.com/images2015/MapleSim_Addon_Mark800x.png"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+### 🌲 Backend
 
-### :floppy_disk: Databases
+#### ☕ Node.js-verse
 
-| <img title="MongoDB" alt="MongoDB" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> | <img title="SQL" alt="SQL" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> | <img title="redis" alt="redis" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"> |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+- Programming language and typing: [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white)](https://nodejs.org/) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+- Communication frameworks: [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)](https://expressjs.com/) [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?&logo=nestjs&logoColor=white)](https://www.nestjs.com) [![hapi](https://img.shields.io/badge/-hapi-orange?&logo=hapi&logoColor=white)](https://hapi.dev/) [![tsoa](https://img.shields.io/badge/-tsoa-1a956c?&logo=tsoa&logoColor=white)](https://tsoa-community.github.io/docs/) [![Socket.io](https://img.shields.io/badge/Socket.io-black?&logo=socket.io&badgeColor=010101)](https://socket.io/) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?&logo=graphql&logoColor=white)](https://graphql.org/)
+- ORMs: [![Mongoose](https://img.shields.io/badge/-Mongoose-green?&logo=mongoose&logoColor=white)](https://mongoosejs.com/) [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?&logo=Sequelize&logoColor=white)](https://sequelize.org/) [![Prisma](https://img.shields.io/badge/Prisma-3982CE?&logo=Prisma&logoColor=white)](https://www.prisma.io/) [![TypeORM](https://img.shields.io/badge/-TypeORM-FB201A?&logo=typeorm&logoColor=white)](https://typeorm.io/)
+- Testing: [![Jest](https://img.shields.io/badge/-jest-%23C21325?&logo=jest&logoColor=white)](https://jestjs.io/) [![Mocha](https://img.shields.io/badge/-mocha-%238D6748?&logo=mocha&logoColor=white)](https://mochajs.org/)
 
-### 🖼️ Frameworks
+#### 🐍 Python-verse
 
-| <img title="Node.js" alt="Node.js" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> | <img title="React" alt="React" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> | <img title="Jest" alt="Jest" width="55px" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png"> | <img title="Mocha" alt="Mocha" width="55px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667"> |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+- Programming language and typing: [![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Pydantic](https://img.shields.io/badge/-Pydantic-E62B63?&logo=python&logoColor=white)](https://pydantic-docs.helpmanual.io/)
+- Communication frameworks: [![FastAPI](https://img.shields.io/badge/FastAPI-005571?&logo=fastapi)](https://fastapi.tiangolo.com/) [![python-socketio](https://img.shields.io/badge/python_socketio-2eae92?&logo=socket.io&badgeColor=010101)](https://python-socketio.readthedocs.io/en/latest/index.html)
+- ORMs: [![PyMongo](https://img.shields.io/badge/-PyMongo-4DB33D?&logo=mongodb&logoColor=white)](https://pymongo.readthedocs.io/)
+- Testing: [![pytest](https://img.shields.io/badge/-pytest-1A9EDE?&logo=pytest&logoColor=white)](https://docs.pytest.org/)
 
-### :books: Libraries
+### 🎄 Frontend
 
-| <img title="Express" alt="Express" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png">                | <img title="hapi" alt="hapi" height="55px" src="https://hapi.dev/img/hapi.svg">                                                   | <img title="joi" alt="joi" width="55px" src="https://joi.dev/img/joiLogo.jpg">                                                                                                                              | <img title="Mongoose" alt="Mongoose" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongoose/mongoose.png"> | <img title="Pino" alt="Pino" width="55px" src="https://getpino.io/pino-tree.png"> | <img title="Sequelize" alt="Sequelize" width="55px" src="https://brandslogos.com/wp-content/uploads/images/sequelize-logo-vector.svg"> | <img title="dotenv" alt="dotenv" width="55px" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png"> | <img title="Chart.js" alt="Chart.js" width="55px" src="https://www.chartjs.org/img/chartjs-logo.svg"> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| <img title="Pandas" alt="Pandas" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/375px-Pandas_mark.svg.png"> | <img title="NumPy" alt="NumPy" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"> | <img title="SciKit Learn" alt="SciKit Learn" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?20180808062052"> |
+- Programming language and typing: [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+- Frameworks: [![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white)](https://nextjs.org)
+- Navigation: [![React Query](https://img.shields.io/badge/-React%20Query-FF4154?&logo=react%20query&logoColor=white)](https://tanstack.com/query/v3) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&logo=redux&logoColor=white)](https://redux.js.org/) [![React Router](https://img.shields.io/badge/React_Router-CA4245?&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
+- Styling: ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?&logo=styled-components&logoColor=white) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&logo=SASS&logoColor=white)](https://sass-lang.com/) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?&logo=chart.js&logoColor=white)
+- Testing: [![Puppeteer](https://img.shields.io/badge/-Puppeteer-28D7A5?&logo=puppeteer&logoColor=white)](https://pptr.dev/) [![Jest](https://img.shields.io/badge/-jest-%23C21325?&logo=jest&logoColor=white)](https://jestjs.io/)
 
-### :wrench: Tools
+### 📊 Data analysis
 
-| <img title="Visual Studio Code" alt="Visual Studio Code" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> | <img title="npm" alt="npm" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"> | <img title="Git" alt="Git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> | <img title="ESlint" alt="ESlint" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/eslint/eslint.png"> | <img title="Webpack" alt="Webpack" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png"> | <img title="Babel" alt="Babel" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/babel/babel.png"> | <img title="Swagger" alt="Swagger" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+[![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black)](https://matplotlib.org/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)](https://numpy.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-### :cloud: Cloud services
+### 💾 Databases
 
-| <img alt="AWS" title="AWS" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"> | <img title="Heroku" alt="Heroku" width="55px" src="https://img.icons8.com/color/48/000000/heroku.png"> | <img title="Microsoft Azure" alt="Microsoft Azure" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"> | <img title="DigitalOcean" alt="DigitalOcean" width="55px" src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg"> |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white)](https://redis.io/)
 
-## :muscle: My strengths
+### 🚀 Deployment
 
-- :question: I try to **learn** something new every day.
-- 🧪 If it's not **tested**, I won't even call it _code_.
-- :alien: Occasional **Mass Effect** references.
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white)](https://vercel.com/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white)](https://www.docker.com/) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?&logo=render&logoColor=white)](https://render.com/) [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?&logo=heroku&logoColor=white)](https://www.heroku.com/)
+
+### 🧰 JS-specific tools
+
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?&logo=npm&logoColor=white)](https://www.npmjs.com/) [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?&logo=yarn&logoColor=white)](https://yarnpkg.com/) [![ESLint](https://img.shields.io/badge/ESLint-4B3263?&logo=eslint&logoColor=white)](https://eslint.org/) [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?&logo=vite&logoColor=white)](https://vitejs.dev/) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?&logo=webpack&logoColor=black)](https://webpack.js.org/)
+
+### 🛠 Everyday tools
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white) [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?&logo=jupyter&logoColor=white)](https://jupyter.org/) [![Git](https://img.shields.io/badge/git-%23F05033.svg?&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?&logo=github&logoColor=white)](https://github.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)](https://www.postman.com/) [![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?&logo=swagger&logoColor=white)](https://swagger.io/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)](https://www.notion.so/) [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?&logo=jira&logoColor=white)](https://jira.atlassian.com/)
+
+## :muscle: What to expect from me
+
+- 🧪 Odd focus on **tests**.
+- 🍷 Good **wine** recommendations.
+- 📓 Thorough and meaningful **documentation**.
+- :alien: Frequent **Mass Effect** references.
 - ✅ **Validation** nerd.
-- :headphones: I'm always listening to ~~good~~ great music. And I'm eager to share it.
+- :headphones: Lots of reverb in whatever **music** you caught me listening to.
+- 🐭 Occasional **guinea pig** pictures.
+- 🇬🇧 and 🇪🇸 spoken.
+- ☝️ Lots of bullet-point lists.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=the.lost.dreamer&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-## :sweat_smile: My flaws
-
-- :angry: I'll always make you test your code.
-- `namingStuffIsDifficult`.
-- :weary: Frequent **typos** (probably more than one in this same file).
-- :tshirt: I'm not good at dressing like an adult.
-- :innocent: Sorry, what was your name?
